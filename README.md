@@ -1,16 +1,16 @@
-## Hi there 👋
+# Herman McDermott
 
-<!--
-**sgaqttskhu/sgaqttskhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A technomancer weaving a tapestry of systems
 
-Here are some ideas to get you started:
+**National Web Supervisor**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focused on connecting the fragmented realms of the digital expanse through
+**Decentralized Optimal Models**
+
+Fueled by Java and empowered by
+GraphQL, Docker, Kubernetes, Svelte, and Next.js
+
+**UI/UX aficionado**
+
+Crafting seamless experiences in a world of chaos
+
