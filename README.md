@@ -1,16 +1,7 @@
-# Herman McDermott
+### sgaqttskhu - Future Optimization Orchestrator 
 
-A technomancer weaving a tapestry of systems
+**UI/UX apostle with a penchant for UI overlays** 
 
-**National Web Supervisor**
+Focused on replication of display screens. Because mirrors reflect images, and pixelated art reflects our desires. 
 
-Focused on connecting the fragmented realms of the digital expanse through
-**Decentralized Optimal Models**
-
-Fueled by Java and empowered by
-GraphQL, Docker, Kubernetes, Svelte, and Next.js
-
-**UI/UX aficionado**
-
-Crafting seamless experiences in a world of chaos
-
+**Customer-focused static archive** - copying monitors to ensure perfect clarity.
